@@ -14,3 +14,5 @@ The independent variables: Make, Model, Year, Engine Fuel Type, Engine HP, Engin
 The dependent variable or target variable: MSRP.
 
 Two different models including Multiple regression and Random forest used to predict the car price
+
+Note: This project was updated on 9/5/2019. After that, there is no update committed.
